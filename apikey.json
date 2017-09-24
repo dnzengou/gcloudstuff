@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "lexical-sanctum-180819",
+    "private_key_id": "c824a8ef45ebede1cbc8a528819a8b3247cb4a7b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJUPLyVyPsFanP\nKL0qvf9uV87hAG3AZAF5faIYigTGbB8BU6ef1IlKoUSStjVcblj/au2kuXZ2z6Q8\ngdTBuSm4uZX+FoHgBV8IgKS7j+z7ehMaVDC9TKuj+eJZ71MhVLj7jii7AwAF90IJ\nI77NJtPI610xIX7sdUJdRTsUhsIw/fbn8ynR4Jg17o69uAA6K2c289VeB5c91JwO\nE+sj99nESKuSDghDrspjazsVB13nD8speKQsLTqV05EVBUV0pJXzQR5xFxMZ0I0T\nhA54gtW7hSYLQ1hMe/f2ZU06FXPmjZp7VmACmxIzx9eDJlth0u5KUv8tCC2JX4HY\npPAcqt1fAgMBAAECggEASR3L5wWMJ/IkRveSYOQ50d81ZZXsxpvrxy7AgS4blt9t\nEWPLNSsRpBfXWnuv/L6dN0MkRZgQdQ1sJoe2+JciFpPc7LhK+kypG+LxMagP17Qa\nHQ1n2FDw4/Dda3GXHTtypfaXR3jK+N+5Ta18XnFUKRyGr9HtEb9y14JN92IMRJNL\nij0JdapUqZVsafEqeordF3GHvZExc+zyOe3SQYCSYSeceNneZ67rKRUcCY3th2zX\ndQEbifrqLG8rWEaNouKnh0Ri9qO+NlnojLHXkcjxrYHydkGFsRCmHxgexTDX2Gl5\nF93/RIXGcb2/3Zjz++DAVZxVpB96FhEEAq0Tpm/YVQKBgQDvD+ZAGZY5eyiEuTVe\n4mvD6qlib+kUP5El1+yjcigXU70LI2kj+8IHv4bLWS3Klui0vh6RDsQz7BZezslU\nNEvTd307zTdRVEj0owhI6sgb55TcG8zbuwR2GEZ21alIYPLJck7Te5dxpoomQLls\nqtD4jUyvpDkROG0mBuAjhLrNJQKBgQDXlGpr87ySABsbcUQGde3mWmv7Sd9NptM2\nuZ/IzpP/60y347+GLvKmg/JR8hEtxQvyut6ZdPEVKwM1pY2PGE1VUF0UWwsNr5v9\nA+lDCyq1it88n6o9tWxPJMYiuUj2al0ldbAig3Fn0smHr99CU9DHlCMVXDH/LhJs\npNEKWt1TMwKBgDVd0UKh850lVyg5yCZEWVZE/kcRQHDat+ZAy3y5MSXz9ZGU+BWm\nT+w23zpp0AUXpx8iCeTL7RTCMUQ82UjI29x7IiPFbgHj1N13v5O3hbBlBCAWvKaY\nmyhZxvEkRUP5EHnT4LDpOCeQy+o6LKqLf1bdBC95c5vagtMoWcTUDndZAoGAFt8X\nH1bflbnPJm0w42KVl8/WDvX6a/mcBP1Sl3JbP1aOcCAIjMrkUYhEKC9/ZRS3vMvY\nm/1NKorCr2leCGVypu98wJEcLhqIeSJ2F/fSUyplnr/txtg9onPrVXnE5OfJ9BR1\nWGQLnxE88llVXWsZBmOQCU8bus//gmlGCEw1mQMCgYEAlj/2RLBFktf25oMvYBB3\nM5oOIY5Z5RF3/Lhl8RljU5mTdmgKEAKf+x7XDGF8fCffqX4ttzB7xQwo8Hp1xOT7\n73gLXCyX7jHDNikmA5rVPkJ6DNQKIT1cKvODc8pVFo1jc/yBPHXgIf5K8dmM1IGi\n7gV46EibiAIQ3PNrg6z1p0o=\n-----END PRIVATE KEY-----\n",
+    "client_email": "vision-api-hack@lexical-sanctum-180819.iam.gserviceaccount.com",
+    "client_id": "117904940731162055057",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api-hack%40lexical-sanctum-180819.iam.gserviceaccount.com"
+}

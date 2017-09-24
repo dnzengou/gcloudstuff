@@ -1,0 +1,7 @@
+#set GOOGLE_APPLICATION_CREDENTIALS=~/gcloudstuff/apikey.json
+
+## quick-start tutorial
+$gcloud iam service-accounts create vision-quickstart; \
+  gcloud iam service-accounts keys create key.json --iam-account \
+     vision-quickstart@vision-api-hack-180821.iam.gserviceaccount.com \
+  && export GOOGLE_APPLICATION_CREDENTIALS=key.json
